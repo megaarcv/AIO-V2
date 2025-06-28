@@ -291,7 +291,6 @@ clear
     fi
 }
 
-clear
 restart_system(){
 #IZIN SCRIPT
 curl "ipinfo.io/org?token=7a814b6263b02c" > /root/.isp
